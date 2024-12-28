@@ -19,6 +19,9 @@ Skills:
     <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="40" height="40"/>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40" height="40"/>
     <img src="https://cdn-icons-png.flaticon.com/128/732/732220.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/3825/3825480.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/7458/7458531.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/9626/9626677.png" width="40" height="40"/>
   </div>
 <br>
 
