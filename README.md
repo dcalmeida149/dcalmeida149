@@ -2,8 +2,24 @@
 ### I'm Daniel Almeida
 
 🌱 I’m always learning
-<br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<br><hr><br>
+Skills: 
 
+  <div class="imagem-container">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/888/888882.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/10353/10353542.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/11905/11905914.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/1991/1991103.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732220.png" width="40" height="40"/>
+  </div>
 <br>
 
 <div>
